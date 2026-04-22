@@ -5,8 +5,13 @@ Aplicação de terminal desenvolvida para a UC607 (Linguagem C). O objetivo do p
 ## 📸 Demonstração
 Aqui podes ver o fluxo de funcionamento do programa:
 
+### Menu Principal
 ![Menu Principal](img/print1.png)
+
+### Adicionar Mensagens
 ![Adicionar Mensagens](img/print2.png)
+
+### Processo de Encriptação
 ![Processo de Encriptação](img/print3.png)
 
 ## 🛠️ Funcionalidades
